@@ -12,5 +12,3 @@ An advanced **photo filter application** built using **Python** for PC users. Th
 - **Python**
 - **Image Processing Libraries**
 
-## Project Link
-[View on GitHub](https://github.com/ImrazMohamedFarook/Advanced-Photo-Filter)

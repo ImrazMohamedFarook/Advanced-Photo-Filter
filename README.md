@@ -12,3 +12,5 @@ An advanced **photo filter application** built using **Python** for PC users. Th
 - **Python**
 - **Image Processing Libraries**
 
+## Functionality
+The app provides various photo filters for enhancing or modifying images, ensuring high-quality edits with error-free processing for users.
